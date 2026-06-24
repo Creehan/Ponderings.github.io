@@ -8,7 +8,7 @@ pageTitleSuffix: What Even am I doing?
 
 > [!tip]
 > For now please use the navigation on the right side (or at the bottom on mobile) --->
-> <--- not this side (or the top left hamburger menu on mobile) its broken for some reason
+> <---- not this side (or the top left hamburger menu on mobile) its broken for some reason
 
 ### I am working on it...
 #### I am still trying to figure all this out...
