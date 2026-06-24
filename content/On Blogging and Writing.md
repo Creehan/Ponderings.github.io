@@ -8,7 +8,7 @@ One of these properties was a very charming little brick house from the 1950s wi
 
 I really wanted this property. So I asked our real estate agent if it would be appropriate and helpful for me to write a letter to the seller, entreating them to consider our offer (as it was likely to be a lower offer) for the sake of the story of my friendship. I was really attempting to pull on the heartstrings.  I even asked for the opportunity to increase our offer if it was close to their top offer. Essentially I was trying to ask for something like the right of first refusal 
 
-Anyways, in that letter, as I'm wont to do, I used...what I would call...AP vocabulary, or put less kindly **$11 Words** (Its just like $10 words but they go to 11). Most of which I'm confident and familiar enough with that I didn't figure it would be a problem. However, one of these words stood out to me as having been misused in a pique of overwrought verbosity... 
+Anyways, in that letter, as I'm wont to do, I used...what I would call...AP vocabulary, or put less kindly **11 Dollar Words** (Its just like 10 Dollar Words but they go to 11). Most of which I'm confident and familiar enough with that I didn't figure it would be a problem. However, one of these words stood out to me as having been misused in a pique of overwrought verbosity... 
 
 ::Cough:: 
 
