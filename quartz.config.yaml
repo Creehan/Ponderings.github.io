@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Creehan Ponderings
-  pageTitleSuffix: ": What even is that dude thinking..."
+  pageTitleSuffix: "pageTitleSuffix"
   enableSPA: true
   enablePopovers: true
   analytics:

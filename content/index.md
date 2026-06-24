@@ -1,7 +1,7 @@
 ---
-title: Homepage
+title: "Homepage:"
 date: 2026-6-08
-
+pageTitleSuffix: What Even am I doing?
 ---
 # Welcome to my new blog
 ## This is just a landing page...
