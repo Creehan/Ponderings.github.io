@@ -1,7 +1,12 @@
 ---
 date: 2026-6-10
+tags:
+  - hoarding
+  - cleaning
+  - ADHD
+last update: 2026-6-10
 ---
-I believe this one was spawned from a response to a friend of mine who makes and collects things on the internet. He was talking openly about struggling with keeping things that probably should have just been thrown out. Especially hoarding parts and pieces of old things because "it could be useful someday". That started a whole conversation and as this is something that I have struggled with for a long time I felt I had some insight. From that conversation came this reply of mine:
+I believe this one was spawned from a response to a friend of mine who makes and collects things on the internet. He was talking openly about struggling with keeping things that probably should have just been thrown out. Especially hoarding parts and pieces of old things because "it could be useful someday". That started a whole conversation and, as this is something that I have struggled with for a long time, I felt I had some insight. From that conversation came this reply of mine:
 
 This might literally be my life's biggest struggle and I don't even make that much stuff I've mostly just had a series of jobs where old parts or other "trash" was still too interesting to me and I've ***had*** to keep it. I can barely get into my extra deep and wide 2 car garage. Why? I have TOO MUCH stuff. Part of my personal problem with most of the [^1]suggestions here (and others that I have gotten) are that they seem to be made by people who don't understand what it's like living with this kind of mental "illness". 
 

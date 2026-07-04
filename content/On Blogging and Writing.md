@@ -1,6 +1,13 @@
 ---
+title: On Blogging and Writing
 date: 2026-6-23
-pageTitleSuffix: How I started this blog
+tags:
+  - Ai
+  - Gemini
+  - LLM
+  - 11DollarWords
+  - Blogging
+  - writing
 ---
 When we were buying our house we looked for a bunch of different houses, put down a lot of different offers on a lot of properties that frankly I liked a lot better than the one we ended up with. This is, or was (depending on when you're reading this), just kind of the way house buying is. This would have been in 2024 and for those who may not have known or weren't around the house buying market was insane at this time. People were waving inspections bringing cash offers 10% over asking, and scooping up properties within hours of them being on the market. So we were just playing the game. None of this truly upset me... With one exception
 
@@ -20,6 +27,6 @@ Well, we didn't get that house. I never go any feedback about the letter either.
 
 All my life, all through school I hated writing. I was bad at it and that made a lot of my education very fraught and caused me no end of trouble. In fact, once in middle school I failed a history test because it was all essay based and my teacher graded on grammar as well as content. So it has been quite refreshing actually to learn that writing can actually be something that I can not only do...passably...but can also be something that I enjoy doing. Thus. This blog.  
 
-
+~ Corey
 
 [^1]: Yes, sometimes I use LLMs for doing stuff. Sue me. 

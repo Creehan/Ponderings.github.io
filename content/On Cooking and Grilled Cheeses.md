@@ -1,6 +1,11 @@
 ---
 date: 2026-6-09
 pageTitleSuffix: Cooking Theory and How I Make Grilled Cheese
+tags:
+  - cooking
+  - recipies
+  - grilledcheese
+  - food
 ---
 This came about when a group of my friends and I were talking about grilled cheese sandwiches and what we do when we're makin 'em at night
 
