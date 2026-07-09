@@ -1,8 +1,13 @@
 ---
 title: On On 9k RPM and Doritos
 date: 2026-7-08
+tags:
+  - "#mazda"
+  - cars
+  - rotaries
+  - old_writing
 ---
-So, this was kinda genesis in some ways...this was one of the very first long format writings I did its probably 15 years old as of this point. I probably don't even agree with the points I made in this "article" anymore. I'm gonna be super honest. I barely reread it before sharing it here on this new blog. I was too afraid of the cringe but I thought it would be a good thing to share because its car related and it kinda shows how far (or not) I've come. Anyways, enjoy:
+So, this was kinda genesis in some ways...this was one of the very first long format writings I did. It's probably 15 years old as of this point and I had stronger opinions about things back then. I probably don't even agree with the points I made in this "article" anymore. I'm gonna be super honest. I barely reread it before sharing it here on this new blog. I was too afraid of the cringe but I thought it would be a good thing to share because its car related and it kinda shows how far (or not) I've come. Anyways, enjoy:
 
 Ok so this article has been fairly long in the making but I believe it is finally ready. So here it goes. Get your popcorn. Get your blanket. Get your pajamas...and throw that crap out the window cause it's about to get real. This article is about rotaries and how I feel about them but first a little clarification and backstory. First of all, I don't hate rotaries. They just aren't really for me. (more on that later) Secondly, when I say rotary I am talking about the Wankel Piston-less Engine made by Mazda. Ok now that that is cleared up on to the heart of things. This rant (because lets be honest that's what it is) originated from a discussion we (The guys of FC3) were having on one of our boards. It started with me posting a picture of a Miata Coupe, one of like 5 that Mazda ever made. Someone ELSE then said that "all Mazda needs to do to make another RX7 is put a Renesys in a Miata with a fixed roof like that." Now being a Miata driver myself I (respectfully) disagree and was instantly deemed a "rotary hater". Although if I'm honest I haven't exactly been supportive of rotaries in the past. However the conversation continued for almost a full day without me logging onto the boards and when I did I had some catching up to do. So I started typing and as so often happens with these things one thing lead to another and I had a full blown rant on my hands. Using mostly that rant I will now attempt to explain and otherwise lay bare for you my opinions of rotaries hopefully with a bit of fact laid in there as well. Keeping in mind of course the original context of this rant.  
 
