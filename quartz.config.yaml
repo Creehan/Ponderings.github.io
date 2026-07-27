@@ -233,6 +233,7 @@ plugins:
     options:
       title: "Recent Posts"
       limit: 5
+      showTags: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -245,21 +246,21 @@ plugins:
     enabled: true
     options: {}
     order: 50
+
+
   - source: github:quartz-community/note-properties
     enabled: true
     options:
       includeAll: false
       includedProperties:
-        - description
         - tags
-        - aliases
       excludedProperties: []
       hidePropertiesView: false
-      delimiters: ---
+      delimiters: "---"
       language: yaml
-    order: 5
+    order: 90
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 15
       display: all
   - source:
