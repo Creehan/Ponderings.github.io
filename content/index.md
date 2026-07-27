@@ -26,3 +26,4 @@ PS, Any grammatical, spelling, or other language based mistakes are entirely my 
 
 
 [^1]: Yes the title needed to be lowercase. why? Because Linux that's why. I don't want to talk about how long that took to figure out
+---

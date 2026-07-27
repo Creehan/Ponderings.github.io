@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -228,11 +228,11 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     layout:
-      position: right
-      priority: 15
+      position: left
+      priority: 50
     options:
       title: "Recent Posts"
-      limit: 5
+      limit: 10
       showTags: false
   - source: github:quartz-community/spacer
     enabled: true
@@ -242,11 +242,11 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
+
   - source: github:quartz-community/bases-page
     enabled: true
     options: {}
     order: 50
-
 
   - source: github:quartz-community/note-properties
     enabled: true
