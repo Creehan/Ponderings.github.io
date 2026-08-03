@@ -1,3 +1,16 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// "Recent Posts" is registered twice in quartz.config.yaml: a desktop-only copy in
+// the left sidebar and a mobile-only copy in the right one, because the mobile grid
+// stacks the left sidebar above the article and the right sidebar below it.
+// The .mobile-only wrapper is display:contents, so base.scss's `.sidebar.right > *`
+// sizing rule lands on the wrapper instead of the component. Re-apply it here so the
+// mobile copy shares the row evenly with backlinks and scrolls past 24rem.
+@media all and ($mobile) {
+  #quartz-body .sidebar.right > .mobile-only > * {
+    flex: 1;
+    max-height: 24rem;
+  }
+}

@@ -149,7 +149,7 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/explorer
     enabled: false
     layout:
@@ -225,11 +225,25 @@ plugins:
       links:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
+  # Recent Posts is registered twice: the left sidebar renders at the top of the
+  # page on mobile, so the mobile copy lives in the right sidebar instead, which
+  # the mobile grid places below the article.
   - source: github:quartz-community/recent-notes
     enabled: true
     layout:
       position: left
       priority: 50
+      display: desktop-only
+    options:
+      title: "Recent Posts"
+      limit: 10
+      showTags: false
+  - source: github:quartz-community/recent-notes
+    enabled: true
+    layout:
+      position: right
+      priority: 50
+      display: mobile-only
     options:
       title: "Recent Posts"
       limit: 10
