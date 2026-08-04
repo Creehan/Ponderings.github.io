@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: false
+    enabled: False
     order: 50
     layout:
       position: right
@@ -236,7 +236,7 @@ plugins:
       display: desktop-only
     options:
       title: "Recent Posts"
-      limit: 10
+      limit: 5
       showTags: false
   - source: github:quartz-community/recent-notes
     enabled: true
@@ -246,7 +246,7 @@ plugins:
       display: mobile-only
     options:
       title: "Recent Posts"
-      limit: 10
+      limit: 5
       showTags: false
   - source: github:quartz-community/spacer
     enabled: true
