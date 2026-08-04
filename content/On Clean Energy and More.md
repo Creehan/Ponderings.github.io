@@ -5,6 +5,7 @@ tags:
   - solar-power
   - old_writing
 date: 2026-08-03
+pageTitleSuffix: a post about a Technology Connections Video....kinda...
 ---
 This post has a preamble that grew to be much longer than I intended. If you don't care about how I came to write this post or any of the context skip to below the fold
 
